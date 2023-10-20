@@ -1,6 +1,6 @@
 # SideStories & HideStories
 
-removing stories from the the Telegram messenger's action bar
+Removing stories from the the Telegram messenger's action bar
 
 In the official Telegram messenger client you can remove stories from the position above chats and (optionally) create a side menu item.
 

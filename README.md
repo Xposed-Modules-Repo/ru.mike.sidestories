@@ -7,8 +7,12 @@ In the official Telegram messenger client you can remove stories from the positi
 ## SideStories:
 Removes stories from the action bar and puts them in the side menu. You can open the stories either through the side menu item or by tapping on the avatars in the chat list.
 
+<img src="https://github.com/Xposed-Modules-Repo/ru.mike.sidestories/assets/69295889/d15dcb53-4baf-4a95-868e-64e136e97d16" width="143" height="259">
+
 ## HideStories:
 Just removes stories. It is possible to open them only by tapping on the avatars, i.e. stories from people / channels to which you are not subscribed cannot be open!
+
+<img src="https://github.com/Xposed-Modules-Repo/ru.mike.sidestories/assets/69295889/a5754147-4d86-481a-910f-7385bcaf9d54" width="233" height="185">
 
 ## Install notes:
 - install apk

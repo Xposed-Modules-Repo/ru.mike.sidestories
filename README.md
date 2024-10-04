@@ -14,6 +14,11 @@ Just removes stories. It is possible to open them only by tapping on the avatars
 
 <img src="https://github.com/Xposed-Modules-Repo/ru.mike.sidestories/assets/69295889/a5754147-4d86-481a-910f-7385bcaf9d54" width="233" height="185">
 
+## UnmuteButtonFix (bonus):
+Make chat's bottom mute/unmute button like a label with chat/channel's notifications status. Just for prevent accidentally switch it :-) Use action bar menu to toggle notifications instead as usual.
+
+<img src="https://github.com/Xposed-Modules-Repo/ru.mike.sidestories/assets/69295889/321e6a32-6417-4c84-b022-e1dd605c3b73" width="233" height="185">
+
 ## Install notes:
 - install apk
 - enable the module in your xposed manager app

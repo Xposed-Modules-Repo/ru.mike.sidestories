@@ -22,4 +22,4 @@ Just removes stories. It is possible to open them only by tapping on the avatars
 - profit!
 
 ## Author
-[MikeZh](https://4pda.to/forum/index.php?showuser=683427), 2023
+[MikeZh](https://4pda.to/forum/index.php?showuser=683427), 2023-2024

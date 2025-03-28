@@ -1,4 +1,26 @@
-# SideStories & HideStories
+# Telegram Tweaks
+
+An all-in-one collection of the known fixes:
+- Action bar stories fix (hide or move to the drawer)
+- Mute/unmute chat bottom button fix (make it chat/channel's notifications status label)
+- (Added) Chat bottom gift button fix (hide it to prevent accidental taps)
+
+<img src="https://github.com/user-attachments/assets/98f87ca9-f983-434e-9c8c-979ba65f775f" width="233" height="78">
+
+## Install notes:
+- install apk
+- enable the module in your xposed manager app
+- (for lsposed) select the Telegram app in the scope
+- Enable preferred tweaks in the module's settings page
+- reboot (in case of (Ed)xposed) or terminate the Telegram app (lsposed)
+- profit!
+
+## Author
+[MikeZh](https://4pda.to/forum/index.php?showuser=683427), 2025
+
+# Deprecated
+
+## SideStories & HideStories
 
 Removing stories from the the Telegram messenger's action bar
 

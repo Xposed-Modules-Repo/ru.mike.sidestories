@@ -20,7 +20,7 @@ An all-in-one collection of the known fixes:
 ## Author
 [MikeZh](https://4pda.to/forum/index.php?showuser=683427), 2025
 
-# Deprecated
+# Deprecated apps:
 
 ## SideStories & HideStories
 

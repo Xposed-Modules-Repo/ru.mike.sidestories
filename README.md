@@ -1,13 +1,13 @@
 # Telegram Tweaks
 
-<img src="https://github.com/user-attachments/assets/d4bb5deb-9caa-4a20-afbc-36d709efee20" width="288" height="260">
+<img src="https://i.postimg.cc/vHRBZtg4/2025-03-28-223254129.png" width="288" height="260">
 
 An all-in-one collection of the known fixes:
 - Action bar stories fix (hide or move to the drawer)
 - Mute/unmute chat bottom button fix (make it chat/channel's notifications status label)
 - (Added) Chat bottom gift button fix (hide it to prevent accidental taps)
 
-<img src="https://github.com/user-attachments/assets/98f87ca9-f983-434e-9c8c-979ba65f775f" width="233" height="78">
+<img src="https://i.postimg.cc/Jhh72Tg2/2025-03-28-223330500.png" width="233" height="78">
 
 ## Install notes:
 - install apk

@@ -1,6 +1,6 @@
 # Telegram Tweaks
 
-<img src="https://github.com/user-attachments/assets/d4bb5deb-9caa-4a20-afbc-36d709efee20" width="144" height="130">
+<img src="https://github.com/user-attachments/assets/d4bb5deb-9caa-4a20-afbc-36d709efee20" width="288" height="260">
 
 An all-in-one collection of the known fixes:
 - Action bar stories fix (hide or move to the drawer)

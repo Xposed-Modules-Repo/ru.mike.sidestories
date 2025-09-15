@@ -5,7 +5,9 @@
 An all-in-one collection of the known fixes:
 - Action bar stories fix (hide or move to the drawer)
 - Mute/unmute chat bottom button fix (make it chat/channel's notifications status label)
-- (Added) Chat bottom gift button fix (hide it to prevent accidental taps)
+- Chat bottom gift button fix (hide it to prevent accidental taps)
+- (Added) lspatch support
+- (Added) block internal Telegram updates check
 
 <img src="https://i.postimg.cc/Jhh72Tg2/2025-03-28-223330500.png" width="233" height="78">
 

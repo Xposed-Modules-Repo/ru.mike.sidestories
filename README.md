@@ -2,17 +2,19 @@
 
 <img src="https://i.postimg.cc/vHRBZtg4/2025-03-28-223254129.png" width="288" height="260">
 
+[Download] (https://github.com/Xposed-Modules-Repo/ru.mike.sidestories/releases)
+
 An all-in-one collection of the known fixes:
 - Action bar stories fix (hide or move to the drawer)
 - Mute/unmute chat bottom button fix (make it chat/channel's notifications status label)
-- Chat bottom gift button fix (hide it to prevent accidental taps)
+- Chat's bottom gift and suggest buttons fix (hide it to prevent accidental taps)
 - (Added) lspatch support
 - (Added) block internal Telegram updates check
 
 <img src="https://i.postimg.cc/Jhh72Tg2/2025-03-28-223330500.png" width="233" height="78">
 
 ## Install notes:
-- install apk
+- install apk ([download] (https://github.com/Xposed-Modules-Repo/ru.mike.sidestories/releases) )
 - enable the module in your xposed manager app
 - (for lsposed) select the Telegram app in the scope
 - Enable preferred tweaks in the module's settings page

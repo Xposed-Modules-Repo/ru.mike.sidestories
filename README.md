@@ -8,8 +8,9 @@ An all-in-one collection of the known fixes:
 - Action bar stories fix (hide or move to the drawer)
 - Mute/unmute chat bottom button fix (make it chat/channel's notifications status label)
 - Chat's bottom gift and suggest buttons fix (hide it to prevent accidental taps)
-- (Added) lspatch support
-- (Added) block internal Telegram updates check
+- lspatch support
+- block internal Telegram updates check
+- (NEW) Telegram v12.4+ new design support: hide bottom floating tabs (use options menu instead)
 
 <img src="https://i.postimg.cc/Jhh72Tg2/2025-03-28-223330500.png" width="233" height="78">
 
@@ -22,7 +23,7 @@ An all-in-one collection of the known fixes:
 - profit!
 
 ## Author
-[MikeZh](https://4pda.to/forum/index.php?showuser=683427), 2025
+[MikeZh](https://4pda.to/forum/index.php?showuser=683427), 2025-2026
 
 # Deprecated apps:
 

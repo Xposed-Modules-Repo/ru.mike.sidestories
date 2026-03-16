@@ -1,6 +1,6 @@
 # Telegram Tweaks
 
-<img src="https://i.postimg.cc/vHRBZtg4/2025-03-28-223254129.png" width="288" height="260">
+<img src="https://i.postimg.cc/bNzL7gyz/izobrazenie-2026-03-16-101600118.png" width="202" height="330">
 
 [Download](https://github.com/Xposed-Modules-Repo/ru.mike.sidestories/releases)
 
@@ -11,8 +11,6 @@ An all-in-one collection of the known fixes:
 - lspatch support
 - block internal Telegram updates check
 - (NEW) Telegram v12.4+ new design support: hide bottom floating tabs (use options menu instead)
-
-<img src="https://i.postimg.cc/Jhh72Tg2/2025-03-28-223330500.png" width="233" height="78">
 
 ## Install notes:
 - install apk ( [download](https://github.com/Xposed-Modules-Repo/ru.mike.sidestories/releases) )
